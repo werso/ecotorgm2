@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/script.min.js" />
+        <item url="file://$PROJECT_DIR$/js/vendor/fancybox.min.js" />
+        <item url="file://$PROJECT_DIR$/js/vendor/imask.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/script.min.js" />
+      <root url="file://$PROJECT_DIR$/js/vendor/fancybox.min.js" />
+      <root url="file://$PROJECT_DIR$/js/vendor/glide.min.js" />
+      <root url="file://$PROJECT_DIR$/js/vendor/imask.min.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
